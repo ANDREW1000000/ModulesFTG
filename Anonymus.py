@@ -1,7 +1,7 @@
 ﻿from .. import loader
 from asyncio import sleep
 @loader.tds
-class HeartsMod(loader.Module):
+class Anonym(loader.Module):
 	strings = {"name": "AnonymusHackAss"}
 	@loader.owner
 	async def hackasscmd(self, message):
