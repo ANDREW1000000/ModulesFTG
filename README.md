@@ -1,2 +1,2 @@
 # ModulesFTG
-@alexandrasmirnovaaye tg
+@alexandrasmirnovaaye Telegram
